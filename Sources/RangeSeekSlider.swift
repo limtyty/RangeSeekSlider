@@ -5,6 +5,7 @@
 //  Created by Keisuke Shoji on 2017/03/09.
 //
 //
+//swiftlint:disable type_body_length
 
 import UIKit
 
